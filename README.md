@@ -17,20 +17,20 @@ growth of the electronics and computer engineering field.
       Kottayam
       2021-2023
 
-###  Secondary  Education  
+###  SSLC  
   * Nss Higher Secondary School
     Chingavanam
     2020-2021
 
 ## CERETICATE COURSES
 * ## Coursera
-   * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79])
+   * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/verify/H4AQF9M0D4IS])
      
     
 ## Workshops And Seminars
 *  Attended Hands on workshop on Arduino Board
 *  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering
  ## Connect Me @
-*  [Linkedin](abhijith-santhosh-b0547331b)
-*  [Gmail](abhijithsanthosh824@gmail.com)
+*  [Linkedin]([https://www.linkedin.com/in/abhijith-swww.linkedin.com/in/anthosh-b0547331b])
+*  [Gamil]([abhijithsanthosh824@gmail.com])
  
