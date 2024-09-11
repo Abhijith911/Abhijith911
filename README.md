@@ -24,7 +24,8 @@ growth of the electronics and computer engineering field.
 
 ## CERETICATE COURSES
 * ## Coursera
-   * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79]))
+   * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79])
+     
     
 ## Workshops And Seminars
 *  Attended Hands on workshop on Arduino Board
