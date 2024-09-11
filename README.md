@@ -30,5 +30,5 @@ growth of the electronics and computer engineering field.
 *  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering
  ## Connect Me @
 *  [Linkedin](abhijith-santhosh-b0547331b)
-*  
+*  [Gmail](abhijithsanthosh824@gmail.com)
  
