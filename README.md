@@ -31,6 +31,6 @@ growth of the electronics and computer engineering field.
 *  Attended Hands on workshop on Arduino Board - By Saintgits College Of Engineering
 *  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering
  ## Connect Me @
-*  [Linkedin]([https://www.linkedin.com/in/abhijith-swww.linkedin.com/in/anthosh-b0547331b])
-*  [Gamil]([abhijithsanthosh824@gmail.com])
+*  [Linkedin] ([https://www.linkedin.com/in/abhijith-swww.linkedin.com/in/anthosh-b0547331b])
+*  [Gmail]([abhijithsanthosh824@gmail.com])
  
