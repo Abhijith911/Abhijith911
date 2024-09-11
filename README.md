@@ -24,7 +24,7 @@ growth of the electronics and computer engineering field.
 
 ## CERTIFICATE COURSES
 * ## Coursera
-   * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/verify/H4AQF9M0D4IS])
+   * [Programming for Everybody (Getting Started with Python)] ([https://coursera.org/verify/H4AQF9M0D4IS])
      
     
 ## Workshops And Seminars
@@ -32,5 +32,5 @@ growth of the electronics and computer engineering field.
 *  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering
  ## Connect Me @
 *  [Linkedin] ([https://www.linkedin.com/in/abhijith-swww.linkedin.com/in/anthosh-b0547331b])
-*  [Gmail]([abhijithsanthosh824@gmail.com])
+*  [Gmail] ([abhijithsanthosh824@gmail.com])
  
