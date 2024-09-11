@@ -1,6 +1,8 @@
 ![WhatsApp Image 2024-09-11 at 11 50 51_ea75a65f](https://github.com/user-attachments/assets/4302006c-8f3e-4a18-88a5-ca62b905deb7)
 # CAREER OBJECTIVE
- Passionate about leaveraging my techinical expertise to drive innovation and solve complex challenges. Have a strong foundation in hardware design, software       development, and system integeration.
+ To pursue a career in research and development, focusing on cutting-edge technologies
+like artificial intelligence, robotics, or the Internet of Things (IoT), and contribute to the
+growth of the electronics and computer engineering field.
 
 # EDUCATIONAL QUALIFICATION
 ### Kerala Technical University  
@@ -11,13 +13,13 @@
 
   
 ### Directorate of Higher Secondary Education
-   *   T V Puram Govt. HSS  
-      T V Turam, Vaikom  
-      2020-2022
+   * MT Seminary HSS  
+      Kottayam
+      2021-2023
 
 ### Central Board of Secondary Education  
   *   Rajagiri Amala Public School   
-     Mothedathukavu,Vaikom    
+     Mothedathuk  
 
 ## CERETICATE COURSES
 * ## Coursera
