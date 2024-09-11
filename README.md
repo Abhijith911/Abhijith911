@@ -12,18 +12,19 @@ growth of the electronics and computer engineering field.
     2023-2027
 
   
-### Directorate of Higher Secondary Education
+### Higher Secondary Education
    * MT Seminary HSS  
       Kottayam
       2021-2023
 
 ###  Secondary  Education  
-  * Nss Hss   
-    Chingavanm
+  * Nss Higher Secondary School
+    Chingavanam
+    2020-2021
 
 ## CERETICATE COURSES
 * ## Coursera
-   * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79](https://coursera.org/verif y/H4AQF9M0D4IS))
+   * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79]))
     
 ## Workshops And Seminars
 *  Attended Hands on workshop on Arduino Board
