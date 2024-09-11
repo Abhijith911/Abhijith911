@@ -17,20 +17,18 @@ growth of the electronics and computer engineering field.
       Kottayam
       2021-2023
 
-### Central Board of Secondary Education  
-  *   Rajagiri Amala Public School   
-     Mothedathuk  
+###  Secondary  Education  
+  * Nss Hss   
+    Chingavanm
 
 ## CERETICATE COURSES
 * ## Coursera
-   * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79)
-   * [Introduction to Career Skills in Software Development](https://lnkd.in/g_2JKnFV)
-
-     
+   * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/share/b76a8cd6772b770f623b990a8e814e79](https://coursera.org/verif y/H4AQF9M0D4IS))
+    
 ## Workshops And Seminars
-*  Foundation of Electric and Hybrid Vehicles program by Techmaghi and IIT Delhi
+*  Attended Hands on workshop on Arduino Board
 *  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering
  ## Connect Me @
-*  [Linkedin](www.linkedin.com/in/abhishek-p-j-488200280)
+*  [Linkedin](abhijith-santhosh-b0547331b)
 *  
  
