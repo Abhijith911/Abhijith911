@@ -8,7 +8,7 @@ growth of the electronics and computer engineering field.
 ### Kerala Technical University  
    * B.Tech in Electronics and Computer Engineering  
     Saintgits College of Engineering(Autonomous)  
-    kottayam, kerala   
+    Kottayam, Kerala   
     2023-2027
 
   
@@ -18,17 +18,17 @@ growth of the electronics and computer engineering field.
       2021-2023
 
 ###  SSLC  
-  * Nss Higher Secondary School
+  * NSS Higher Secondary School
     Chingavanam
     2020-2021
 
-## CERETICATE COURSES
+## CERTIFICATE COURSES
 * ## Coursera
    * [Programming for Everybody (Getting Started with Python)]([https://coursera.org/verify/H4AQF9M0D4IS])
      
     
 ## Workshops And Seminars
-*  Attended Hands on workshop on Arduino Board
+*  Attended Hands on workshop on Arduino Board - By Saintgits College Of Engineering
 *  Hands-on workshop on the Vega processor - By C-Dac and Saintgits College of Engineering
  ## Connect Me @
 *  [Linkedin]([https://www.linkedin.com/in/abhijith-swww.linkedin.com/in/anthosh-b0547331b])
