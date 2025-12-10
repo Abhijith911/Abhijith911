@@ -105,17 +105,3 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./images/github-stats.svg" width="100%" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="./images/top-langs.svg" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
