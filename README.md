@@ -17,6 +17,10 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
   <a href="https://linkedin.com/in/abhijithsanthosh2005">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/pxyco_doc">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="36" />
+  </a>
 </p>
 
 
@@ -106,13 +110,12 @@ I'm a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**,
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abhijith911&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10"
-           style="width:100%; height:230px;" />
+      <img src="./images/github-stats.svg" width="100%" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith911&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs+count=10"
-           style="width:100%; height:230px;" />
+      <img src="./images/top-langs.svg" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
