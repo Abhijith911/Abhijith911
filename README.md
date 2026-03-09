@@ -37,37 +37,48 @@
 
 #### 💬 Programming Languages  
 <p>  
-    <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br>  
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" /><br>   
-    <img src="https://img.shields.io/badge/Verilog%20HDL-333333.svg?style=for-the-badge&logo=vercel&logoColor=white" /><br>   
+    <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Verilog%20HDL-333333.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>  
 
 #### ⚡ Embedded / IoT / Hardware  
 <p>  
-    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" /><br>   
-    <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" /><br>    
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" /><br>  
-    <img src="https://img.shields.io/badge/Adafruit%20IO-000000.svg?style=for-the-badge&logo=adafruit&logoColor=white" />  
-    <img src="https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=HiveMQ&logoColor=white" /><br>  
-    <img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5.svg?style=for-the-badge&logo=intel&logoColor=white" /><br>   
-    <img src="https://img.shields.io/badge/ModelSim-0A0A0A.svg?style=for-the-badge&logo=siemens&logoColor=white" /><br>    
-    <img src="https://img.shields.io/badge/MATLAB-FF7F2A.svg?style=for-the-badge&logo=mathworks&logoColor=white" /><br>    
+    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" />
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adafruit%20IO-000000.svg?style=for-the-badge&logo=adafruit&logoColor=white" />
+    <img src="https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=HiveMQ&logoColor=white" />
+    <img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5.svg?style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/ModelSim-0A0A0A.svg?style=for-the-badge&logo=siemens&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATLAB-FF7F2A.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>  
 
 #### 📊 Data & Signal Processing  
 <p>  
-    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><br>  
-    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><br>  
-    <img src="https://img.shields.io/badge/MATLAB%20(DSP)-E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white" /><br>  
+    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATLAB%20(DSP)-E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>  
 
 #### ⚙️ Dev Tools & Platforms  
 <p>  
-    <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><br>  
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" /><br>  
-    <img src="https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>  
-    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /><br>   
-</p>  
+    <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/FPGA%20Design-Advanced-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA%20Programming-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+Deepening my knowledge in **FPGA-based digital design** (custom datapaths, pipelining) and **CUDA GPU programming** for parallel computing — building toward the intersection of hardware acceleration and AI.
 
 ---
 
@@ -75,12 +86,16 @@
 
 ### 🔹 **Edge-IoT Smart Energy Management System**  
 📌 Built a real-time energy monitoring and control system using **Raspberry Pi + ESP32**, communicating over **MQTT** and visualized on **Adafruit IO**. Enables remote appliance monitoring and threshold-based alerts — reducing manual oversight of power usage.  
+
+
 👉 **[View Project](https://github.com/Abhijith911/smart-energy-management-system)**
 
 ---
 
 ### 🔹 **32-bit Ripple Carry Adder (Verilog HDL)**  
 📌 Designed and implemented a full 32-bit RCA in **Verilog HDL**, synthesized in **Intel Quartus Prime**, and verified with **ModelSim** waveform simulation. Reinforced understanding of carry propagation delays and combinational logic at the hardware level.  
+
+
 👉 **[View Project](https://github.com/Abhijith911/32bit-ripple-carry-adder)**
 
 ---
@@ -105,8 +120,22 @@ Gained hands-on experience with microcontroller programming fundamentals, GPIO i
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| Introduction to Industry 4.0 and Industrial IoT | NPTEL | Nov 2025 |
+| Hands-on Introduction to Linux Commands and Shell Scripting | Coursera | Oct 2025 |
+| Introduction to Machine Learning | NPTEL | May 2025 |
+| Hands-on Workshop on Vega Processor | CDAC Thiruvananthapuram | May 2024 |
+| Programming for Everybody (Getting Started with Python) | Coursera | Aug 2024 |
+
+---
+
+
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Abhijith911&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+![Abhijith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijith911&theme=tokyo-night&hide_border=true)
