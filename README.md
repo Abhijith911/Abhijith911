@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Abhijith Santhosh</h2>
 <p align="center"><i>Electronics & Computer Engineering Student · Embedded Systems · IoT · Digital Design</i></p>
 
-> I build things that run on hardware — from IoT energy systems on Raspberry Pi to 32-bit processors in Verilog. Currently a 3rd-year B.Tech student at **Saintgits College of Engineering, Kottayam**, bridging the gap between silicon and software.
+> I build real-world systems at the intersection of **embedded hardware and AI** — from IoT energy monitoring on Raspberry Pi to GPU-accelerated computer vision models. My work spans **firmware, computer vision, and digital design**, with a focus on deploying systems that interact with real hardware in real time.
 
 ---
 
@@ -69,6 +69,14 @@
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+#### 🤖 AI / Computer Vision  
+<p>  
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/YOLO-000000.svg?style=for-the-badge&logo=yolo&logoColor=white" />
+    <img src="https://img.shields.io/badge/CUDA-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
 ---
 
 ## 🌱 Currently Learning
@@ -83,6 +91,20 @@ Deepening my knowledge in **FPGA-based digital design** (custom datapaths, pipel
 ---
 
 ## 🚀 Major Projects
+
+### 🔹 **Vision-Based Smart Parking System**  
+📌 Built a complete real-time parking automation system using **Raspberry Pi 4, OpenCV, and Tesseract OCR** for number plate detection and validation. Integrated **ESP8266 ultrasonic sensing over UART** for vehicle confirmation and developed a **Flask dashboard** for live slot monitoring, fee calculation, reservations, and alerts.
+
+👉 **[View Project](https://github.com/Abhijith911/vision-based-smart-parking)**
+
+---
+
+### 🔹 **AI-Based Helmet Detection System**  
+📌 Trained a custom **YOLO11s model** on 3,735 images to detect helmet usage with **86.9% mAP@50**, using **PyTorch + CUDA (FP16)** for accelerated training. Built a full ML pipeline with dataset preprocessing, augmentation, training, evaluation, and real-time inference via **Gradio UI**.
+
+👉 **[View Project](https://github.com/Abhijith911/helmet-detection)**
+
+---
 
 ### 🔹 **Edge-IoT Smart Energy Management System**  
 📌 Built a real-time energy monitoring and control system using **Raspberry Pi + ESP32**, communicating over **MQTT** and visualized on **Adafruit IO**. Enables remote appliance monitoring and threshold-based alerts — reducing manual oversight of power usage.  
