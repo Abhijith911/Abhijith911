@@ -149,11 +149,10 @@ Gained hands-on experience with microcontroller programming fundamentals, GPIO i
 | Introduction to Industry 4.0 and Industrial IoT | NPTEL | Nov 2025 |
 | Hands-on Introduction to Linux Commands and Shell Scripting | Coursera | Oct 2025 |
 | Introduction to Machine Learning | NPTEL | May 2025 |
-| Hands-on Workshop on Vega Processor | CDAC Thiruvananthapuram | May 2024 |
 | Programming for Everybody (Getting Started with Python) | Coursera | Aug 2024 |
+| Hands-on Workshop on Vega Processor | CDAC Thiruvananthapuram | May 2024 |
 
 ---
-
 
 
 <p align="left">
@@ -161,3 +160,5 @@ Gained hands-on experience with microcontroller programming fundamentals, GPIO i
 </p>
 
 ![Abhijith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijith911&theme=tokyo-night&hide_border=true)
+
+---
