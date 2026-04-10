@@ -166,10 +166,26 @@ Integrated a **Flask backend API** with a dynamic **Leaflet.js map frontend**, e
 
 ## 💼 Experience
 
-### Embedded Systems Intern — KELTRON  
-**Duration:** 2 weeks  
-Gained hands-on experience with microcontroller programming fundamentals, GPIO interfacing, and embedded C workflows in an industry environment.
 
+### Aerospace & Drone Systems Intern — India Space Lab  
+**Duration:** Feb 2026 – Mar 2026  
+
+Completed a 30-day technical internship focused on **drone systems, satellite technologies, and aerospace engineering**.
+
+- Worked on **CanSat & CubeSat systems**, remote sensing, GIS, and UAV technologies  
+- Designed and simulated a **Cessna 210 (NASA variant)** aircraft using OpenVSP  
+- Recreated full aircraft geometry from reference drawings and validated across multiple views  
+
+---
+
+### Embedded Systems Intern — KELTRON  
+**Duration:** June 2025 - (2 Weeks)  
+
+Gained hands-on experience in **embedded systems development**, focusing on microcontroller programming and hardware interfacing in an industry environment.
+
+- Worked with **GPIO interfacing**, sensor integration, and embedded C fundamentals  
+- Developed basic programs for **real-time hardware control and signal handling**  
+- Understood industry workflows including debugging, testing, and deployment of embedded applications  
 ---
 
 ## 🏅 Certifications
