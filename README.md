@@ -114,6 +114,15 @@ Deepening my knowledge in **FPGA-based digital design** (custom datapaths, pipel
 
 ---
 
+### 🔹 **AI-Based Disaster Risk Prediction System**  
+📌 Developed an interactive disaster intelligence dashboard using **NASA EONET data, Machine Learning, and geospatial visualization**. Built a **Random Forest model** to predict disaster risk based on location and temporal patterns derived from historical events.
+
+Integrated a **Flask backend API** with a dynamic **Leaflet.js map frontend**, enabling real-time click-based risk prediction and global disaster heatmap visualization with adjustable intensity and filtering.
+
+👉 **[View Project](https://github.com/Abhijith911/ai-disaster-risk-prediction)**
+
+---
+
 ### 🔹 **32-bit Ripple Carry Adder (Verilog HDL)**  
 📌 Designed and implemented a full 32-bit RCA in **Verilog HDL**, synthesized in **Intel Quartus Prime**, and verified with **ModelSim** waveform simulation. Reinforced understanding of carry propagation delays and combinational logic at the hardware level.  
 
