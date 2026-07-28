@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd-year Electronics & Computer Engineering student at Saintgits College of Engineering  
+- 🎓 4th-year Electronics & Computer Engineering student at Saintgits College of Engineering  
 - 🔌 Passionate about Embedded Systems, IoT, and Digital Design  
 - 🧠 Interested in combining AI with Embedded Systems  
 - 💡 I love working on real hardware — sensors, microcontrollers, and everything in between  
