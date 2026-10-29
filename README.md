@@ -8,16 +8,20 @@
 ## 📬 Connect With Me
 
 <p align="left">
+  <a href="https://abhijith911.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:abhijithsanthosh824@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="32" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="32" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/abhijithsanthosh2005">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/abh1jithh._">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="36" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="36" alt="Instagram" />
   </a>
 </p>
 
