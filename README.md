@@ -119,6 +119,14 @@ Deepening my knowledge in **FPGA-based digital design** (custom datapaths, pipel
 👉 **[View Project](https://github.com/Abhijith911/vision-based-smart-parking)**
 
 ---
+---
+
+### 🔹 **BloodLink: IoT-Based Blood Bank Monitoring System**
+📌 Developed an IoT-based blood bank monitoring prototype using **ESP8266, RC522 RFID, IR sensors, and temperature/humidity sensing** to track storage-slot occupancy and environmental conditions. Integrated a **Supabase + PostgreSQL backend** with Edge Functions and a **React web dashboard** for inventory visibility and device status monitoring.
+
+Contributed to **literature review, project documentation, 3D printing of the storage rack, hardware integration, and OLED display interfacing**.
+
+👉 **[View Project](https://github.com/Abhijith911/BloodLink)**
 
 ### 🔹 **AI-Based Helmet Detection System**  
 📌 Trained a custom **YOLO11s model** on 3,735 images to detect helmet usage with **86.9% mAP@50**, using **PyTorch + CUDA (FP16)** for accelerated training. Built a full ML pipeline with dataset preprocessing, augmentation, training, evaluation, and real-time inference via **Gradio UI**.
