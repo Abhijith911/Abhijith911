@@ -161,7 +161,7 @@ Integrated a **Flask backend API** with a dynamic **Leaflet.js map frontend**, e
 
 ---
 
-## 📘 Smaller Projects
+## 📘 Mini Projects
 
 ### 🔹 Ultrasonic Water Level Indicator  
 📌 Arduino-based system using HC-SR04 to detect water levels and trigger alerts — practical embedded I/O project.  
@@ -175,6 +175,20 @@ Integrated a **Flask backend API** with a dynamic **Leaflet.js map frontend**, e
 
 ## 💼 Experience
 
+
+
+### 🧬 Project Intern — National Institute of Technology Calicut
+**Duration:** May 2026 – June 2026
+
+Worked on a genome-to-phenome prediction project focused on mango seed thickness prediction using genome-wide SNP data and machine learning.
+
+- Processed genomic data, performed phenotype matching and quality control, and applied GWAS-based feature selection using FarmCPU.
+- Developed and evaluated LightGBM, XGBoost, Random Forest, ElasticNet, and SVR models using different GWAS-derived SNP feature sets.
+- Applied SHAP explainability to identify influential SNPs and interpret model predictions.
+- Conducted candidate gene analysis using the *Mangifera indica* reference genome.
+- Developed an interactive Streamlit application for phenotype prediction and genomic data visualization.
+
+---
 
 ### Aerospace & Drone Systems Intern — India Space Lab  
 **Duration:** Feb 2026 – Mar 2026  
